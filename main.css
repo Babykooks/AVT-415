@@ -6,10 +6,10 @@ html {font-size: 100%;} /*16px*/
 body {
   background-color:#F2E4DC;
   color: #202426;
-  margin: 0;
   padding: 50px;
   line-height: 1.75;
-  align-content: center
+  align-content: center;
+margin: 62px 139px;
 }
 h1 {
 
@@ -30,6 +30,9 @@ h4 {font-size: 1.5em;
 	color: #D9BBA0;
 margin-top: 0;
 
+}
+dd{
+	color: #8C593B; 
 }
 
 dt {
